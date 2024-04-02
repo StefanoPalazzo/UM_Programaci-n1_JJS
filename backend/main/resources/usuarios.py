@@ -2,7 +2,7 @@ from flask_restful import Resource
 from flask import request
 
 USUARIOS = {
-     1:{'Nombre':'Juan', 'Apellido':'Pérez', 'Correo':'JuanPe15@outlook.com.ar', 'Telefono':'2613485490'},
+     1:{'Nombre':'Juan', 'Apellido':'Perez', 'Correo':'JuanPe15@outlook.com.ar', 'Telefono':'2613485490'},
      2:{'Nombre':'Sofia', 'Apellido':'Dalmante', 'Correo':'sofi_dalmante02@gmail.com', 'Telefono':'2613846570'},
      
 }
