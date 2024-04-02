@@ -1,3 +1,3 @@
-from .biblioteca import Usuario as UsuarioResource
-from .biblioteca import Usuarios as UsuariosResources
-from .biblioteca import Configuracion as ConfiguracionResource
+from .usuarios import Usuario as UsuarioResource
+from .usuarios import Usuarios as UsuariosResources
+from .configuracion import Configuracion as ConfiguracionResource
